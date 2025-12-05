@@ -32,6 +32,6 @@ Comprehensive documentation of cyber security best practices and recommendations
 - Compliance frameworks (NIST, ISO, etc.)
 
 ## Files Included
-- [Project 8 - Cyber Best Practices.pdf](Project%208%20-%20Cyber%20Best%20Practices.pdf) - Main report and recommendations
+- [Project 8 - Cyber Best Practices.pdf](Project%208%20-%20Cyber%20Best%20Practices.pdf) - Main report and recommendations (PDF format)
 - [Project 8 - Cyber Best Practices.docx](Project%208%20-%20Cyber%20Best%20Practices.docx) - Detailed documentation in Word format
-- [cyber-best-practices.md](cyber-best-practices.md) - Extended project documentation
+- [cyber-best-practices.md](cyber-best-practices.md) - Extended project documentation in Markdown format
