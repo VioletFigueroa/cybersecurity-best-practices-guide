@@ -8,6 +8,15 @@
 
 ---
 
+**How to view artifacts:** Main report in `Project 8 - Cyber Best Practices.pdf/.docx`; extended notes in `cyber-best-practices.md`.
+
+**Result snapshot:** Consolidated enterprise security best practices with actionable recommendations.
+
+**Quick review:**
+- Docs: `Project 8 - Cyber Best Practices.pdf/.docx`
+- Notes: `cyber-best-practices.md`
+- Start with: Recommendations section
+
 ## Overview
 Comprehensive documentation of cyber security best practices and recommendations for enterprise environments. This project provides guidance on implementing effective security controls and establishing a strong security posture across organizations.
 
@@ -38,6 +47,10 @@ Comprehensive documentation of cyber security best practices and recommendations
 - Policy development tools
 - Risk assessment methodologies
 - Compliance frameworks (NIST, ISO, etc.)
+
+## Lessons Learned
+- Clear baselines + training uplift security posture quickly.
+- Mapping best practices to control owners improves adoption.
 
 ## Files Included
 - [Project 8 - Cyber Best Practices.pdf](Project%208%20-%20Cyber%20Best%20Practices.pdf) - Main report and recommendations (PDF format)
