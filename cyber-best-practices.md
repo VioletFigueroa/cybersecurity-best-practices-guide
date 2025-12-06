@@ -1,11 +1,3 @@
----
-title: "Cyber Best Practices"
-date: 2025-11-22
-layout: "single"
-draft: false
-tags: ["cybersecurity", "best practices"]
-summary: "Comprehensive documentation of cybersecurity best practices and recommendations."
----
 
 ## Cyber Best Practices
 
@@ -24,9 +16,9 @@ actionable strategies to effectively mitigate risks.
 
 ### Project Deliverables
 
-- 📄 [Cyber Best Practices (DOCX)](/projects/cyber-best-practices/Project%208%20-%20Cyber%20Best%20Practices.docx)
-- 📄 [Cyber Best Practices (PDF)](/projects/cyber-best-practices/Project%208%20-%20Cyber%20Best%20Practices.pdf)
-- 📄 [Cyber Best Practices (Markdown)](/projects/cyber-best-practices/Project%208%20-%20Cyber%20Best%20Practices.md)
+- 📄 [Cyber Best Practices (DOCX)](./Project%208%20-%20Cyber%20Best%20Practices.docx)
+- 📄 [Cyber Best Practices (PDF)](./Project%208%20-%20Cyber%20Best%20Practices.pdf)
+- 📄 [Cyber Best Practices (Markdown)](./Project%208%20-%20Cyber%20Best%20Practices.md)
 
 ### Supporting Artifacts & Evidence
 
@@ -86,4 +78,3 @@ following phased approach is recommended:
 - National Cybersecurity Alliance. (2025, January 13). Create and Use Strong
   Passwords. <https://www.staysafeonline.org/articles/passwords>
 
-[← Back to Projects](/projects/)
